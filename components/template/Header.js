@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Container, Dropdown, Header, Menu } from "semantic-ui-react";
-import { Link } from "../../routes";
 import * as firebase from "firebase";
 import Head from "next/head";
 import Favicon from "react-favicon";
