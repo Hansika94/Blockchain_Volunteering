@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Form, Input, Button, Message } from "semantic-ui-react";
-import { Router } from "../../routes";
 import * as firebase from "firebase";
 
 class LoginForm extends Component {
