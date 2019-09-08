@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { Header } from 'semantic-ui-react';
 import Layout from '../components/template/Layout';
 import CreateTokensForm from '../components/admin/CreateTokensForm';
-import { Link, Router } from '../routes';
 import vogenPoints from '../ethereum/vogen';
 
 
