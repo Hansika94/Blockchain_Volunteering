@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import { Container, Header } from "semantic-ui-react";
 import Layout from "../components/template/Layout";
 import OrgApprovalReqTable from "../components/organisation/OrgApprovalReqTable";
-import { Link, Router } from "../routes";
 
 class OrgApprovalReqPage extends Component {
     render() {
