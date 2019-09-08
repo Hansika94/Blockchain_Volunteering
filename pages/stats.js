@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Statistic, Card, Header, Container } from 'semantic-ui-react';
 import Layout from "../components/template/Layout";
-import { Link, Router } from '../routes';
 import vogenPoints from '../ethereum/vogen';
 
 
