@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 import { Button, Form, Input, Message, Header } from 'semantic-ui-react';
 import Layout from "../components/template/Layout";
 import TransferTokensForm from '../components/TransferTokensForm';
-import { Link, Router } from '../routes';
-
 
 class BlockchainPayementIndex extends Component {
     static async getInitialProps(props) {
