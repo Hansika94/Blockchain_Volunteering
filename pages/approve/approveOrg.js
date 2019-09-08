@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Header } from 'semantic-ui-react';
-import { Link, Router } from '../../routes';
 import Layout from '../../components/template/Layout';
 import AdminApproveOrg from '../../components/admin/AdminApproveOrg';
 
