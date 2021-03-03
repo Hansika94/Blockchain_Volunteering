@@ -35,7 +35,7 @@
     "oauth": "^0.9.15",
     "openzeppelin-solidity": "^2.2.0",
     "path": "^0.12.7",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "react": "^16.8.6",
     "react-country-region-selector": "^1.4.3",
     "react-dom": "^16.8.6",
