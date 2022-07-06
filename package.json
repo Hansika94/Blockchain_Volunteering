@@ -30,7 +30,7 @@
     "morgan": "~1.9.1",
     "multer": "*",
     "next": "^8.1.0",
-    "next-auth": "^1.12.1",
+    "next-auth": "^3.29.8",
     "next-routes": "^1.4.2",
     "oauth": "^0.9.15",
     "openzeppelin-solidity": "^2.2.0",
